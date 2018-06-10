@@ -1,0 +1,13 @@
+to run this project 
+
+
+npm install // for download node modules
+
+npm run dev  // i use mysql lite
+
+
+
+any problem follow these sites
+
+https://www.youtube.com/watch?v=hk8xkMoPHSk
+https://www.youtube.com/watch?v=XdpUen_7O_0
