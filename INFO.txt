@@ -1,3 +1,5 @@
+first add server.php and updatePass.php in xamp folder in phpmyadmin folder
+
 to run this project 
 
 
